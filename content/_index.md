@@ -22,13 +22,13 @@ sections:
       # Need a custom icon?
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
       buttons:
-        - text: Read my latest paper on LLMs
+        - text: Paper about SER, accepted by ICASSP 2024
           icon: academicons/arxiv
-          url: https://arxiv.org/abs/2304.01852
-        - text: Watch my new YouTube video to achieve 20x productivity
-          icon: brands/youtube
-          url: https://youtube.com
-        - text: Connect with me on LinkedIn
-          icon: brands/linkedin
-          url: https://linkedin.com
+          url: https://arxiv.org/abs/2312.11974
+        - text: Paper about ASR, accepted by InterSpeech 2024
+          icon: academicons/arxiv
+          url: https://arxiv.org/abs/2407.03026
+        - text: Paper about Deepfake Detection, accepted by ICASSP 2025
+          icon: academicons/arxiv
+          url: https://arxiv.org/abs/2412.20799
 ---
