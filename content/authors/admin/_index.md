@@ -28,7 +28,7 @@ profiles:
     url: 'zhengyuanzhong-jk@360shuke.com'
     label: E-mail Me
   - icon: brands/weixin
-    url: yuanzhongzheng3
+    account: yuanzhongzheng3
 ---
 
 Yuanzhong Zheng is the head of the Audio-Video Team at Qifu Technology. His research interests are mainly concentrated on audio-video technologies, deepfake detection, and multi-modal representation, fusion and alignment. 
